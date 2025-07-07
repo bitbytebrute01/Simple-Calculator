@@ -1,4 +1,4 @@
-# 🧠 Sexy Minimal Genius Calculator
+# 🧠Calculator
 
 A slick, responsive, and minimal calculator built using **HTML**, **JavaScript**, and a touch of **glassmorphism CSS**. It's not just functional — it's *visually stunning*, compact, and designed for both beauty and brains.
 
